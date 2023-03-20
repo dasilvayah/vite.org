@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="400px" height="469px" viewBox="0 0 400 469" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 57.1 (83088) - https://sketch.com -->
+    <title>异步架构1</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="29.8267057%" y1="0%" x2="70.845108%" y2="89.5095885%" id="linearGradient-1">
+            <stop stop-color="#6FBFFF" offset="0%"></stop>
+            <stop stop-color="#007AFF" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="弹窗" transform="translate(-1572.000000, -894.000000)">
+            <g id="Group-11" transform="translate(1572.000000, 894.000000)">
+                <g id="Rectangle-8">
+                    <g id="Group-2" transform="translate(0.000000, 136.097143)">
+                        <g id="Combined-Shape-Copy-7" transform="translate(3.333333, 0.000000)" fill="url(#linearGradient-1)">
+                            <path d="M10,14.3334358 L10.2798043,14.3372793 C15.6713518,14.4855723 20,18.9062074 20,24.3334358 L20,24.3334358 L19.9950733,24.5164862 C19.9002306,26.2738159 18.4479028,27.6667691 16.6666667,27.6667691 L16.6666667,27.6667691 L3.33333333,27.6667691 L3.15028298,27.6618424 C1.39295323,27.5669997 0,26.1146719 0,24.3334358 C0,18.8126345 4.47894251,14.3334358 10,14.3334358 L10,14.3334358 Z M10,0 C13.313608,0 16.0001025,2.68623834 16.0001025,6.00010247 L16.0001025,6.00010247 L15.9959637,6.22505102 C15.8776652,9.43468082 13.2382987,12.0002049 10,12.0002049 L10,12.0002049 L9.77505145,11.9960665 C6.56542165,11.877779 3.99989753,9.2386515 3.99989753,6.00010247 L3.99989753,6.00010247 L4.00403592,5.77515392 C4.12232346,2.56552412 6.76145097,0 10,0 Z"></path>
+                        </g>
+                        <g id="Rectangle-8-Copy-2" transform="translate(0.000000, 30.688571)">
+                            <rect id="Rectangle-8" fill="#1B4366" fill-rule="evenodd" x="0" y="0" width="27" height="27"></rect>
+                            <text id="10" font-family="PingFangSC-Semibold, PingFang SC" font-size="14" font-weight="500" fill="#FFFFFF">
+                                <tspan x="9.3" y="18.5">8</tspan>
+                            </text>
+                        </g>
+                        <g id="Combined-Shape-Copy-7" transform="translate(376.666667, 0.000000)" fill="url(#linearGradient-1)">
+                            <path d="M10,14.3334358 L10.2798043,14.3372793 C15.6713518,14.4855723 20,18.9062074 20,24.3334358 L20,24.3334358 L19.9950733,24.5164862 C19.9002306,26.2738159 18.4479028,27.6667691 16.6666667,27.6667691 L16.6666667,27.6667691 L3.33333333,27.6667691 L3.15028298,27.6618424 C1.39295323,27.5669997 0,26.1146719 0,24.3334358 C0,18.8126345 4.47894251,14.3334358 10,14.3334358 L10,14.3334358 Z M10,0 C13.313608,0 16.0001025,2.68623834 16.0001025,6.00010247 L16.0001025,6.00010247 L15.9959637,6.22505102 C15.8776652,9.43468082 13.2382987,12.0002049 10,12.0002049 L10,12.0002049 L9.77505145,11.9960665 C6.56542165,11.877779 3.99989753,9.2386515 3.99989753,6.00010247 L3.99989753,6.00010247 L4.00403592,5.77515392 C4.12232346,2.56552412 6.76145097,0 10,0 Z"></path>
+                        </g>
+                        <g id="Rectangle-8-Copy-2" transform="translate(373.333333, 30.688571)">
+                            <rect id="Rectangle-8" fill="#1B4366" fill-rule="evenodd" x="0" y="0" width="27" height="27"></rect>
+                            <text id="10" font-family="PingFangSC-Semibold, PingFang SC" font-size="14" font-weight="500" fill="#FFFFFF">
+                                <tspan x="6.43" y="18.5">10</tspan>
+                            </text>
+                        </g>
+                        <g id="Rectangle-8-Copy-5" transform="translate(173.333333, 0.000000)">
+                            <g>
+                                <rect id="Rectangle-8" stroke="#1B4366" stroke-width="2" fill="#FFFFFF" x="1" y="1" width="51" height="41"></rect>
+                                <text id="-2" font-family="PingFangSC-Semibold, PingFang SC" font-size="18" font-weight="500" fill="#1B4366">
+                                    <tspan x="15.655" y="28.5375">-2</tspan>
+                                </text>
+                            </g>
+                        </g>
+                    </g>
+                    <g id="Group-4" transform="translate(0.000000, 378.937143)">
+                        <g id="Combined-Shape-Copy-7" transform="translate(3.333333, 0.000000)" fill="url(#linearGradient-1)">
+                            <path d="M10,14.3334358 L10.2798043,14.3372793 C15.6713518,14.4855723 20,18.9062074 20,24.3334358 L20,24.3334358 L19.9950733,24.5164862 C19.9002306,26.2738159 18.4479028,27.6667691 16.6666667,27.6667691 L16.6666667,27.6667691 L3.33333333,27.6667691 L3.15028298,27.6618424 C1.39295323,27.5669997 0,26.1146719 0,24.3334358 C0,18.8126345 4.47894251,14.3334358 10,14.3334358 L10,14.3334358 Z M10,0 C13.313608,0 16.0001025,2.68623834 16.0001025,6.00010247 L16.0001025,6.00010247 L15.9959637,6.22505102 C15.8776652,9.43468082 13.2382987,12.0002049 10,12.0002049 L10,12.0002049 L9.77505145,11.9960665 C6.56542165,11.877779 3.99989753,9.2386515 3.99989753,6.00010247 L3.99989753,6.00010247 L4.00403592,5.77515392 C4.12232346,2.56552412 6.76145097,0 10,0 Z"></path>
+                        </g>
+                        <g id="Rectangle-8-Copy-2" transform="translate(0.000000, 30.688571)">
+                            <rect id="Rectangle-8" fill="#1B4366" fill-rule="evenodd" x="0" y="0" width="27" height="27"></rect>
+                            <text id="10" font-family="PingFangSC-Semibold, PingFang SC" font-size="14" font-weight="500" fill="#FFFFFF">
+                                <tspan x="9.3" y="18.5">8</tspan>
+                            </text>
+                        </g>
+                        <g id="Combined-Shape-Copy-7" transform="translate(376.666667, 0.000000)" fill="url(#linearGradient-1)">
+                            <path d="M10,14.3334358 L10.2798043,14.3372793 C15.6713518,14.4855723 20,18.9062074 20,24.3334358 L20,24.3334358 L19.9950733,24.5164862 C19.9002306,26.2738159 18.4479028,27.6667691 16.6666667,27.6667691 L16.6666667,27.6667691 L3.33333333,27.6667691 L3.15028298,27.6618424 C1.39295323,27.5669997 0,26.1146719 0,24.3334358 C0,18.8126345 4.47894251,14.3334358 10,14.3334358 L10,14.3334358 Z M10,0 C13.313608,0 16.0001025,2.68623834 16.0001025,6.00010247 L16.0001025,6.00010247 L15.9959637,6.22505102 C15.8776652,9.43468082 13.2382987,12.0002049 10,12.0002049 L10,12.0002049 L9.77505145,11.9960665 C6.56542165,11.877779 3.99989753,9.2386515 3.99989753,6.00010247 L3.99989753,6.00010247 L4.00403592,5.77515392 C4.12232346,2.56552412 6.76145097,0 10,0 Z"></path>
+                        </g>
+                        <g id="Rectangle-8-Copy-2" transform="translate(373.333333, 30.688571)">
+                            <rect id="Rectangle-8" fill="#1B4366" fill-rule="evenodd" x="0" y="0" width="27" height="27"></rect>
+                            <text id="10" font-family="PingFangSC-Semibold, PingFang SC" font-size="14" font-weight="500" fill="#FFFFFF">
+                                <tspan x="6.43" y="18.5">12</tspan>
+                            </text>
+                        </g>
+                        <g id="Rectangle-8-Copy-5" transform="translate(173.333333, 0.000000)">
+                            <g>
+                                <rect id="Rectangle-8" stroke="#1B4366" stroke-width="2" fill="#FFFFFF" x="1" y="1" width="51" height="41"></rect>
+                                <text id="-2" font-family="PingFangSC-Semibold, PingFang SC" font-size="18" font-weight="500" fill="#1B4366">
+                                    <tspan x="15.655" y="28.5375">-2</tspan>
+                                </text>
+                            </g>
+                        </g>
+                        <g id="Rectangle-8-Copy-5" transform="translate(173.333333, 46.700000)">
+                            <g>
+                                <rect id="Rectangle-8" stroke="#1B4366" stroke-width="2" fill="#FFFFFF" x="1" y="1" width="51" height="41"></rect>
+                                <text id="-2" font-family="PingFangSC-Semibold, PingFang SC" font-size="18" font-weight="500" fill="#1B4366">
+                                    <tspan x="15.655" y="28.5375">+2</tspan>
+                                </text>
+                            </g>
+                        </g>
+                    </g>
+                    <g id="Group" transform="translate(0.000000, 241.505714)">
+                        <g id="Combined-Shape-Copy-7" transform="translate(3.333333, 0.000000)" fill="url(#linearGradient-1)">
+                            <path d="M10,14.3334358 L10.2798043,14.3372793 C15.6713518,14.4855723 20,18.9062074 20,24.3334358 L20,24.3334358 L19.9950733,24.5164862 C19.9002306,26.2738159 18.4479028,27.6667691 16.6666667,27.6667691 L16.6666667,27.6667691 L3.33333333,27.6667691 L3.15028298,27.6618424 C1.39295323,27.5669997 0,26.1146719 0,24.3334358 C0,18.8126345 4.47894251,14.3334358 10,14.3334358 L10,14.3334358 Z M10,0 C13.313608,0 16.0001025,2.68623834 16.0001025,6.00010247 L16.0001025,6.00010247 L15.9959637,6.22505102 C15.8776652,9.43468082 13.2382987,12.0002049 10,12.0002049 L10,12.0002049 L9.77505145,11.9960665 C6.56542165,11.877779 3.99989753,9.2386515 3.99989753,6.00010247 L3.99989753,6.00010247 L4.00403592,5.77515392 C4.12232346,2.56552412 6.76145097,0 10,0 Z"></path>
+                        </g>
+                        <g id="Rectangle-8-Copy-2" transform="translate(0.000000, 30.688571)">
+                            <rect id="Rectangle-8" fill="#1B4366" fill-rule="evenodd" x="0" y="0" width="27" height="27"></rect>
+                            <text id="10" font-family="PingFangSC-Semibold, PingFang SC" font-size="14" font-weight="500" fill="#FFFFFF">
+                                <tspan x="9.3" y="18.5">8</tspan>
+                            </text>
+                        </g>
+                        <g id="Combined-Shape-Copy-7" transform="translate(376.666667, 0.000000)" fill="url(#linearGradient-1)">
+                            <path d="M10,14.3334358 L10.2798043,14.3372793 C15.6713518,14.4855723 20,18.9062074 20,24.3334358 L20,24.3334358 L19.9950733,24.5164862 C19.9002306,26.2738159 18.4479028,27.6667691 16.6666667,27.6667691 L16.6666667,27.6667691 L3.33333333,27.6667691 L3.15028298,27.6618424 C1.39295323,27.5669997 0,26.1146719 0,24.3334358 C0,18.8126345 4.47894251,14.3334358 10,14.3334358 L10,14.3334358 Z M10,0 C13.313608,0 16.0001025,2.68623834 16.0001025,6.00010247 L16.0001025,6.00010247 L15.9959637,6.22505102 C15.8776652,9.43468082 13.2382987,12.0002049 10,12.0002049 L10,12.0002049 L9.77505145,11.9960665 C6.56542165,11.877779 3.99989753,9.2386515 3.99989753,6.00010247 L3.99989753,6.00010247 L4.00403592,5.77515392 C4.12232346,2.56552412 6.76145097,0 10,0 Z"></path>
+                        </g>
+                        <g id="Rectangle-8-Copy-2" transform="translate(373.333333, 30.688571)">
+                            <rect id="Rectangle-8" fill="#1B4366" fill-rule="evenodd" x="0" y="0" width="27" height="27"></rect>
+                            <text id="10" font-family="PingFangSC-Semibold, PingFang SC" font-size="14" font-weight="500" fill="#FFFFFF">
+                                <tspan x="6.43" y="18.5">10</tspan>
+                            </text>
+                        </g>
+                        <g id="Rectangle-8-Copy-3" transform="translate(373.333333, 60.710000)">
+                            <rect id="Rectangle-8" fill="#007AFF" fill-rule="evenodd" x="0" y="0" width="27" height="27"></rect>
+                            <text id="-2" font-family="PingFangSC-Semibold, PingFang SC" font-size="14" font-weight="500" fill="#FFFFFF">
+                                <tspan x="5.065" y="18.5">+2</tspan>
+                            </text>
+                        </g>
+                        <path id="Line-3-Copy-40" d="M359.333333,65.7185714 L373.333333,72.7185714 L359.333333,79.7185714 L359.333,73.718 L227,73.7185714 L227,71.7185714 L359.333,71.718 L359.333333,65.7185714 Z" fill="#007AFF" fill-rule="nonzero"></path>
+                        <path id="Line-3-Copy-41" d="M227.399375,12.896454 L360.506,60.996 L362.545607,55.3534344 L373.333333,66.6947285 L357.787662,68.5201335 L359.826,62.877 L226.719668,14.777411 L227.399375,12.896454 Z" fill="#007AFF" fill-rule="nonzero"></path>
+                        <g id="Rectangle-8" transform="translate(173.333333, 46.700000)">
+                            <rect fill="#007AFF" fill-rule="evenodd" x="0" y="0" width="53" height="43"></rect>
+                            <text id="-2" font-family="PingFangSC-Semibold, PingFang SC" font-size="18" font-weight="500" fill="#FFFFFF">
+                                <tspan x="15.655" y="28.5375">+2</tspan>
+                            </text>
+                        </g>
+                        <g id="Rectangle-8-Copy-5" transform="translate(173.333333, 0.000000)">
+                            <g>
+                                <rect id="Rectangle-8" stroke="#1B4366" stroke-width="2" fill="#FFFFFF" x="1" y="1" width="51" height="41"></rect>
+                                <text id="-2" font-family="PingFangSC-Semibold, PingFang SC" font-size="18" font-weight="500" fill="#1B4366">
+                                    <tspan x="15.655" y="28.5375">-2</tspan>
+                                </text>
+                            </g>
+                        </g>
+                    </g>
+                    <g id="Group-3">
+                        <g id="Rectangle-8" transform="translate(173.333333, 0.000000)">
+                            <rect fill="#007AFF" fill-rule="evenodd" x="0" y="0" width="53" height="43"></rect>
+                            <text id="-2" font-family="PingFangSC-Semibold, PingFang SC" font-size="18" font-weight="500" fill="#FFFFFF">
+                                <tspan x="15.655" y="28.5375">-2</tspan>
+                            </text>
+                        </g>
+                        <g id="Combined-Shape-Copy-7" transform="translate(3.333333, 0.000000)" fill="url(#linearGradient-1)">
+                            <path d="M10,14.3334358 L10.2798043,14.3372793 C15.6713518,14.4855723 20,18.9062074 20,24.3334358 L20,24.3334358 L19.9950733,24.5164862 C19.9002306,26.2738159 18.4479028,27.6667691 16.6666667,27.6667691 L16.6666667,27.6667691 L3.33333333,27.6667691 L3.15028298,27.6618424 C1.39295323,27.5669997 0,26.1146719 0,24.3334358 C0,18.8126345 4.47894251,14.3334358 10,14.3334358 L10,14.3334358 Z M10,0 C13.313608,0 16.0001025,2.68623834 16.0001025,6.00010247 L16.0001025,6.00010247 L15.9959637,6.22505102 C15.8776652,9.43468082 13.2382987,12.0002049 10,12.0002049 L10,12.0002049 L9.77505145,11.9960665 C6.56542165,11.877779 3.99989753,9.2386515 3.99989753,6.00010247 L3.99989753,6.00010247 L4.00403592,5.77515392 C4.12232346,2.56552412 6.76145097,0 10,0 Z"></path>
+                        </g>
+                        <g id="Rectangle-8-Copy-2" transform="translate(0.000000, 30.688571)">
+                            <rect id="Rectangle-8" fill="#1B4366" fill-rule="evenodd" x="0" y="0" width="27" height="27"></rect>
+                            <text id="10" font-family="PingFangSC-Semibold, PingFang SC" font-size="14" font-weight="500" fill="#FFFFFF">
+                                <tspan x="6.43" y="18.5">10</tspan>
+                            </text>
+                        </g>
+                        <g id="Rectangle-8-Copy-3" transform="translate(0.000000, 61.377143)">
+                            <rect id="Rectangle-8" fill="#007AFF" fill-rule="evenodd" x="0" y="0" width="27" height="27"></rect>
+                            <text id="-2" font-family="PingFangSC-Semibold, PingFang SC" font-size="14" font-weight="500" fill="#FFFFFF">
+                                <tspan x="5.065" y="18.5">-2</tspan>
+                            </text>
+                        </g>
+                        <g id="Combined-Shape-Copy-7" transform="translate(376.666667, 0.000000)" fill="url(#linearGradient-1)">
+                            <path d="M10,14.3334358 L10.2798043,14.3372793 C15.6713518,14.4855723 20,18.9062074 20,24.3334358 L20,24.3334358 L19.9950733,24.5164862 C19.9002306,26.2738159 18.4479028,27.6667691 16.6666667,27.6667691 L16.6666667,27.6667691 L3.33333333,27.6667691 L3.15028298,27.6618424 C1.39295323,27.5669997 0,26.1146719 0,24.3334358 C0,18.8126345 4.47894251,14.3334358 10,14.3334358 L10,14.3334358 Z M10,0 C13.313608,0 16.0001025,2.68623834 16.0001025,6.00010247 L16.0001025,6.00010247 L15.9959637,6.22505102 C15.8776652,9.43468082 13.2382987,12.0002049 10,12.0002049 L10,12.0002049 L9.77505145,11.9960665 C6.56542165,11.877779 3.99989753,9.2386515 3.99989753,6.00010247 L3.99989753,6.00010247 L4.00403592,5.77515392 C4.12232346,2.56552412 6.76145097,0 10,0 Z"></path>
+                        </g>
+                        <g id="Rectangle-8-Copy-2" transform="translate(373.333333, 30.688571)">
+                            <rect id="Rectangle-8" fill="#1B4366" fill-rule="evenodd" x="0" y="0" width="27" height="27"></rect>
+                            <text id="10" font-family="PingFangSC-Semibold, PingFang SC" font-size="14" font-weight="500" fill="#FFFFFF">
+                                <tspan x="6.43" y="18.5">10</tspan>
+                            </text>
+                        </g>
+                        <path id="Line-3-Copy-35" d="M161.333333,8.34428571 L175.333333,15.3442857 L161.333333,22.3442857 L161.333,16.344 L27,16.3442857 L27,14.3442857 L161.333,14.344 L161.333333,8.34428571 Z" fill="#007AFF" fill-rule="nonzero"></path>
+                        <path id="Line-3-Copy-36" d="M173.384855,24.1331491 L173.884946,26.0696174 L41.804,60.178 L43.3055952,65.9884326 L28,62.7114286 L39.8049603,52.4331548 L41.304,58.242 L173.384855,24.1331491 Z" fill="#007AFF" fill-rule="nonzero"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html {{ HTML_ATTRS }}>
+<head>
+  {{ HEAD }}
+
+  <!--google analytics-->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=AW-768624100"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'AW-768624100');
+    gtag('event', 'conversion', {'send_to': 'AW-768624100/d74PCMXKlJUBEOSLwe4C'});
+  </script>
+
+  <!-- Facebook Pixel Code -->
+  <script>
+    !function(f,b,e,v,n,t,s)
+    {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+      n.callMethod.apply(n,arguments):n.queue.push(arguments);};
+    if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+    n.queue=[];t=b.createElement(e);t.async=!0;
+    t.src=v;s=b.getElementsByTagName(e)[0];
+    s.parentNode.insertBefore(t,s);}(window, document,'script',
+      'https://connect.facebook.net/en_US/fbevents.js');
+    fbq('init', '505703349988471');
+    fbq('track', 'PageView');
+  </script>
+
+  <style>
+    @font-face {
+    font-family: ProximaNova;
+    src: url(/assets/fonts/Mark-Simonson-Proxima-Nova-Alt-Bold-webfont.woff2) format("woff2"),
+        url(/assets/fonts/Mark-Simonson-Proxima-Nova-Alt-Bold-webfont.woff) format("woff"),
+        url(/assets/fonts/Mark-Simonson-Proxima-Nova-Alt-Bold-webfont.ttf) format("truetype"),
+        url(/assets/fonts/FontsFree-Net-Proxima-Nova-Xbold.otf) format("opentype"),
+        url(/assets/fonts/Mark-Simonson-Proxima-Nova-Alt-Bold-webfont.svg#proximanova) format("svg");
+      font-display: auto;
+  }
+  
+  @font-face {
+      font-family: ProximaNova-Extrabld;
+      src: url(/assets/fonts/proximanova-extrabold.otf) format("opentype");
+      font-display: auto;
+  }
+  @font-face {
+      font-family: WorkSans;
+      src: url(/assets/fonts/WorkSans-Regular.ttf) format("truetype");
+      font-display: auto;
+  }
+  </style>
+
+  <noscript><img height="1" width="1" style="display:none"
+                 src="https://www.facebook.com/tr?id=505703349988471&ev=PageView&noscript=1"
+  /></noscript>
+  <!-- End Facebook Pixel Code -->
+</head>
+<body {{ BODY_ATTRS }}>
+{{ APP }}
+</body>
+</html>
